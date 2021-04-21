@@ -4,7 +4,7 @@
 ## Contract Info
 - Name: `Star Notary`
 - Symbol: `STAR`
-- Rinkeby-Contract-Address: `0x3526b1015031EA8984919E4C6ba1Bcf0BE948fBD`
+- Rinkeby-Contract-Address: `0x497Be0c1Efb1813C1b35327bFBa14240363d4230`
 - Truffle-Version: `5.3.2`
 - OpenZeppelin-Version: `2.3.0`
 
